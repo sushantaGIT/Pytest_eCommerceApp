@@ -1,24 +1,24 @@
-101822 12:21:54 PM: INFO: ************************ Test_001_Login ************************
-101822 12:21:54 PM: INFO: ************************ Verifying Home Page title ************************
-101822 12:21:59 PM: INFO: ************************ Home Page title test is Passed ************************
-101822 12:22:00 PM: INFO: ************************ Verifying Login test ************************
-101822 12:22:05 PM: INFO: ************************ Login test is Passed ************************
-101822 12:22:07 PM: INFO: ********************* Test_002_DDT_Login ************************
-101822 12:22:07 PM: INFO: ************************ Verifying Login DDT test ************************
-101822 12:22:18 PM: INFO: ******** Passed *********
-101822 12:22:25 PM: INFO: ******** Passed *********
-101822 12:22:31 PM: INFO: ******** Passed *********
-101822 12:22:36 PM: INFO: ******** Passed *********
-101822 12:22:36 PM: INFO: ************ Login DDT test Passed ******************
-101822 12:22:36 PM: INFO: ************ End of Login DDT test **************
-101822 12:22:36 PM: INFO: ***************** Completed Test_002_DDT_Login **************
-101822 12:22:38 PM: INFO: *************** Test_004_SearchCustomerByEmail **********************
-101822 12:22:43 PM: INFO: *************** Login Successful ****************
-101822 12:22:43 PM: INFO: ************* Starting Search Customer by Email *************
-101822 12:22:44 PM: INFO: ************* Searching Customer by Email *************
-101822 12:22:49 PM: INFO: ***************** Test_004_SearchCustomerByEmail Finished ***************
-101822 12:22:50 PM: INFO: *************** Test_004_SearchCustomerByEmail **********************
-101822 12:22:57 PM: INFO: *************** Login Successful ****************
-101822 12:22:57 PM: INFO: ************* Starting Search Customer by Name *************
-101822 12:22:58 PM: INFO: ************* Searching Customer by First and Last Name *************
-101822 12:23:03 PM: INFO: ***************** Test_004_SearchCustomerByName Finished ***************
+102122 11:02:09 AM: INFO: ************************ Test_001_Login ************************
+102122 11:02:09 AM: INFO: ************************ Verifying Home Page title ************************
+102122 11:02:15 AM: INFO: ************************ Home Page title test is Passed ************************
+102122 11:02:16 AM: INFO: ************************ Verifying Login test ************************
+102122 11:02:21 AM: INFO: ************************ Login test is Passed ************************
+102122 11:02:22 AM: INFO: ********************* Test_002_DDT_Login ************************
+102122 11:02:22 AM: INFO: ************************ Verifying Login DDT test ************************
+102122 11:02:32 AM: INFO: ******** Passed *********
+102122 11:02:39 AM: INFO: ******** Passed *********
+102122 11:02:45 AM: INFO: ******** Passed *********
+102122 11:02:50 AM: INFO: ******** Passed *********
+102122 11:02:50 AM: INFO: ************ Login DDT test Passed ******************
+102122 11:02:51 AM: INFO: ************ End of Login DDT test **************
+102122 11:02:51 AM: INFO: ***************** Completed Test_002_DDT_Login **************
+102122 11:02:52 AM: INFO: *************** Test_004_SearchCustomerByEmail **********************
+102122 11:02:58 AM: INFO: *************** Login Successful ****************
+102122 11:02:58 AM: INFO: ************* Starting Search Customer by Email *************
+102122 11:02:59 AM: INFO: ************* Searching Customer by Email *************
+102122 11:03:04 AM: INFO: ***************** Test_004_SearchCustomerByEmail Finished ***************
+102122 11:03:06 AM: INFO: *************** Test_004_SearchCustomerByEmail **********************
+102122 11:03:10 AM: INFO: *************** Login Successful ****************
+102122 11:03:10 AM: INFO: ************* Starting Search Customer by Name *************
+102122 11:03:11 AM: INFO: ************* Searching Customer by First and Last Name *************
+102122 11:03:16 AM: INFO: ***************** Test_004_SearchCustomerByName Finished ***************
